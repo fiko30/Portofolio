@@ -1,0 +1,7 @@
+https://dashboard.emailjs.com/
+
+Service ID : service_prtkube
+ 
+Template ID : 5dz3tg9
+
+Public Key : kEcc-v2REokn6yqG4
